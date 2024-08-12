@@ -1,0 +1,17 @@
+{
+  "maintenance": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Preventiva"
+    },
+    {
+      "id": 2,
+      "name": "Corretiva"
+    },
+    {
+      "id": 3,
+      "name": "Preditiva"
+    }
+  ]
+}

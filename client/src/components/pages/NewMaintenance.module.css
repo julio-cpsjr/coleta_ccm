@@ -1,0 +1,14 @@
+.newmaintenance_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    color: white;
+}
+
+.newmaintenance_container h1{
+    margin-bottom: 0.5em;
+}
+
+.newmaintenance_container p{
+    color: #7b7b7b;
+}

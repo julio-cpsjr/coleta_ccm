@@ -1,0 +1,31 @@
+.container_contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+
+.title_contact{
+    padding-bottom: 1em;
+    font-weight: bold;
+    color: white;
+}
+
+.logo{
+    width: 30%;
+}
+
+.list {
+    list-style: none;
+}
+
+.title_list {
+    justify-items: center;
+
+}
+
+.p{
+    padding-bottom: 1em;
+}

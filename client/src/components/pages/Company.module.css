@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-color: #222;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {  
+    width: 30%;
+}
+
+.font{
+    color: white;
+    display: flex;
+    font-weight: bold;
+
+}

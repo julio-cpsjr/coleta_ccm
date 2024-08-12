@@ -1,0 +1,16 @@
+.btn{
+    background-color: #222;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 2%;
+    border-color: white;
+    border-style:solid;
+}
+
+.btn:hover{
+    color: #222;
+    background-color: yellow;
+    transition: 0.5s;
+}

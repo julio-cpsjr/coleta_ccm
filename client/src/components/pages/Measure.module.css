@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5em;
+    width: 100%;
+    align-items: center;
+}
+
+.container h1{
+    color: #ffffff;
+    padding-bottom: .5em;
+}
+
+.container_chart{
+    display: flex;
+    justify-content:space-around;
+    margin-right: 2.5em;
+    width: 100%;
+}
+
+.container_chart:hover :not(:hover){
+    transition: .5s;
+    opacity: 0.3;
+}
+

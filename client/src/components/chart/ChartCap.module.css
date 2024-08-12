@@ -1,0 +1,12 @@
+.chart{
+    max-width: 500px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.canvas {
+   display: flex;
+   align-items: center;
+   background-color: rgb(0, 0, 0);
+   border-radius: 0.5em;
+}

@@ -1,0 +1,14 @@
+.maintenances_container{
+    padding: 2em;
+    background-color: #222;
+    color: white;
+}
+
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+
+
